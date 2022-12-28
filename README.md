@@ -16,10 +16,10 @@ The objective is to take the inputs from the user to these questions and then ge
 
 # Easy Version (Step 1)
 
-Generate the password in sequence. If the user wants 
-* 4 letters
-* 2 symbols and
-* 3 numbers
+Generate the password in sequence.
+* 4 -7 letters
+* 2 - 4 symbols and
+* 2 - 4 numbers
 
 then the password might look like this: 
 
